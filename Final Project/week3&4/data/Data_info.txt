@@ -1,0 +1,16 @@
+https://github.com/fivethirtyeight/data/tree/master/airline-safety
+airline-safety.csv
+
+Statistics, Bureau of Aircraft Accident Archives
+https://www.baaa-acro.com/statistics/death-rate-per-year?page=1
+
+
+Passengers All U.S. Carriers - All Airports:
+https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=F
+
+US Operating Revenue (In Thousands of Dollars ($000) from Bureau of Transportation Statistics:
+https://www.transtats.bts.gov/Data_Elements_Financial.aspx?Qn6n=K
+
+
+Cravit, R. (2019, August 21). How to Use Color Blind Friendly Palettes to Make Your Charts Accessible. Retrieved from Venngage:
+https://venngage.com/blog/color-blind-friendly-palette/#3
